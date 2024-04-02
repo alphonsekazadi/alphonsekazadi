@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on lots of projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: Alphonse
-- ⚡ Fun fact: I don't what happend
+- ⚡ Fun fact: I don't know what happened
 
 <!---
 alphonsekazadi/alphonsekazadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
