@@ -28,7 +28,9 @@ I'm always looking for exciting new projects to contribute to—whether open sou
 
 And more...
 ---
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alphonsekazadi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekazadi&layout=compact)
+---
 ## 🧩 What Drives Me
 
 > Solving problems is my passion.
