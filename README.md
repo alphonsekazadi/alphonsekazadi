@@ -30,6 +30,7 @@ And more...
 ---
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alphonsekazadi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekazadi&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alphonsekazadi)](https://github.com/alphonsekazadi/github-profile-trophy)
 ---
 ## 🧩 What Drives Me
 
