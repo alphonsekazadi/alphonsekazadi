@@ -53,15 +53,7 @@ I'm always looking for exciting new projects to contribute to—whether open sou
   <img src="https://github-readme-stats.vercel.app/api?username=alphonsekazadi&show_icons=true&hide_title=true&hide_border=true&bg_color=0,1a1a2e,282828&title_color=EA4335&text_color=ffb300&icon_color=FF512F" height="163" alt="Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekazadi&layout=compact&hide_border=true&bg_color=0,1a1a2e,282828&title_color=FF512F&text_color=f7971e" height="163" alt="Top Langs"/>
 </p>
-<p align="center">
-  <a href="https://github.com/alphonsekazadi/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alphonsekazadi&theme=flat&no-frame=true&margin-w=7&title=Followers,Stars,Repositories,Commits,Issues,PullRequest,Reviews,Discussions&column=6&row=2" alt="Trophies"/>
-  </a>
-</p>
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alphonsekazadi&theme=dark&hide_border=true&background=1a1a2e&ring=FF512F&fire=EA4335&currStreakLabel=f7971e" height="163" alt="GitHub Streak"/>
-</p>
+
 <p align="center">
   <!-- Contribution Graph (optional, for more stats) -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
