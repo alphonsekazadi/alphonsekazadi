@@ -16,21 +16,16 @@
 
 ---
 
-## 🧑‍💻 About Me
-
+## About Me
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding Illustration" style="border-radius:16px;box-shadow:0 2px 24px #e0c3fc40;"/>
+  I'm a Software Engineer, Web and AI Developer with a passion for problem-solving and building impactful solutions. I thrive on challenges and enjoy working on hands-on projects every week to expand my skills as a developer. As a data scientist, I blend analytical thinking with creative coding to deliver results that matter.
+I'm always looking for exciting new projects to contribute to—whether open source or otherwise!
 </p>
 
-I'm a Software Engineer, Web and AI Developer with a passion for problem-solving and building impactful solutions.  
-I thrive on challenges and enjoy working on hands-on projects every week to expand my skills as a developer.  
-As a data scientist, I blend analytical thinking with creative coding to deliver results that matter.
-
-I'm always looking for exciting new projects to contribute to—whether open source or otherwise!
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,react,python,vite,tailwind,postgres,mysql,js,ts,html,css,git,github,linux,vscode&theme=light&perline=8" />
@@ -47,7 +42,7 @@ I'm always looking for exciting new projects to contribute to—whether open sou
 
 ---
 
-## 🏆 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alphonsekazadi&show_icons=true&hide_title=true&hide_border=true&bg_color=0,1a1a2e,282828&title_color=EA4335&text_color=ffb300&icon_color=FF512F" height="163" alt="Stats"/>
@@ -63,7 +58,7 @@ I'm always looking for exciting new projects to contribute to—whether open sou
 
 ---
 
-## 🧩 What Drives Me
+## What Drives Me
 
 <blockquote align="center" style="font-size:1.15em;border-left:4px solid #8B0000;padding:0.5em 1em;background:#fff8f3;">
   <em>Solving problems is my passion.</em>
@@ -71,10 +66,10 @@ I'm always looking for exciting new projects to contribute to—whether open sou
 
 ---
 
-## 🚀 What I'm Up To
+## What I'm Up To
 
-- 🚧 Working on hands-on projects to sharpen my skills and stay ahead in tech.
-- 🤝 Exploring new opportunities to collaborate and contribute to innovative projects.
+- Working on hands-on projects to sharpen my skills and stay ahead in tech.
+- Exploring new opportunities to collaborate and contribute to innovative projects.
 
 ---
 
