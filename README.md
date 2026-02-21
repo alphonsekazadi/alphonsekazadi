@@ -73,8 +73,10 @@ I focus on real-world solutions, clean code, and continuous improvement.
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alphonsekazadi&theme=onedark&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alphonsekazadi" />
+
 </p>
+
 ---
 
 ## 🎯 Current Focus
