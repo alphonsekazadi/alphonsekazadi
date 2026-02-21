@@ -1,10 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:8B0000&height=170&section=header&text=Alphonse%20KAZADI&fontSize=38&fontAlign=50&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=8B0000&center=true&vCenter=true&width=750&lines=Software+Engineer;Mobile+Developer+(React+Native);Machine+Learning+Engineer;Cybersecurity+Enthusiast" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:8B0000&height=170&section=header&text=Alphonse%20KAZADI&fontSize=38&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -61,13 +57,22 @@ I focus on real-world solutions, clean code, and continuous improvement.
 
 ## 📊 GitHub Activity
 
+<!-- GitHub Streak (black background as requested) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphonsekazadi&show_icons=true&hide_border=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsekazadi&layout=compact&hide_border=true&theme=default" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=alphonsekazadi&theme=black-ice&hide_border=true" />
 </p>
 
+<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsekazadi&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsekazadi&bg_color=000000&color=8B0000&line=8B0000&point=ffffff&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alphonsekazadi&theme=darkhub&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
