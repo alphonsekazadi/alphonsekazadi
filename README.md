@@ -63,8 +63,9 @@ I focus on real-world solutions, clean code, and continuous improvement.
 </p>
 
 <!-- Contribution Graph -->
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsekazadi&bg_color=000000&color=8B0000&line=8B0000&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsekazadi&bg_color=000000&color=FF4C4C&line=FF0000&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
@@ -72,9 +73,8 @@ I focus on real-world solutions, clean code, and continuous improvement.
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alphonsekazadi&theme=darkhub&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alphonsekazadi&theme=onedark&no-frame=true&no-bg=true&margin-w=8" />
 </p>
-
 ---
 
 ## 🎯 Current Focus
