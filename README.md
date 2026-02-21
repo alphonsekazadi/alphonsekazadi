@@ -28,7 +28,7 @@ I’m a Software Engineer passionate about building scalable and secure digital 
 I design and develop:
 
 - Modern Web Applications  
-- Cross-platform Mobile Apps (React Native)  
+- Mobile Apps (React Native)  
 - Machine Learning Systems  
 - Security-focused architectures  
 
@@ -36,7 +36,7 @@ I focus on real-world solutions, clean code, and continuous improvement.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,react,reactnative,python,js,ts,html,css,tailwind,vite,mysql,postgres,git,github,linux,vscode&perline=9" />
@@ -55,9 +55,9 @@ I focus on real-world solutions, clean code, and continuous improvement.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
-<!-- GitHub Streak (black background as requested) -->
+<!-- GitHub Streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alphonsekazadi&theme=black-ice&hide_border=true" />
 </p>
@@ -66,15 +66,6 @@ I focus on real-world solutions, clean code, and continuous improvement.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsekazadi&bg_color=000000&color=FF4C4C&line=FF0000&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alphonsekazadi" />
-
 </p>
 
 ---
@@ -88,7 +79,7 @@ I focus on real-world solutions, clean code, and continuous improvement.
 
 ---
 
-## 🧠 Engineering Mindset
+## Engineering Mindset
 
 - Build before talking  
 - Security first  
