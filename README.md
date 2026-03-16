@@ -32,7 +32,7 @@ I focus on real-world solutions, clean code, and continuous improvement.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,react,reactnative,python,js,ts,html,css,tailwind,vite,mysql,postgres,git,github,linux,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,react,python,js,ts,html,css,tailwind,vite,mysql,postgres,git,github,linux,vscode&perline=9" />
 </p>
 
 ### Data & AI
