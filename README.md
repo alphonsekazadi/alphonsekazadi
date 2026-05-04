@@ -55,12 +55,6 @@ I focus on real-world solutions, clean code, and continuous improvement.
   <img src="https://streak-stats.demolab.com?user=alphonsekazadi&theme=black-ice&hide_border=true" />
 </p>
 
-<!-- Contribution Graph -->
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphonsekazadi&bg_color=000000&color=FF4C4C&line=FF0000&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
 ---
 
 ## 🎯 Current Focus
