@@ -46,14 +46,15 @@ I focus on real-world solutions, clean code, and continuous improvement.
 - Networking fundamentals  
 - Secure development practices  
 
----
-
+<!--
 ## GitHub Activity
 
-<!-- GitHub Streak -->
+GitHub Streak -->
+<!--
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alphonsekazadi&theme=black-ice&hide_border=true" />
 </p>
+-->
 
 ---
 
