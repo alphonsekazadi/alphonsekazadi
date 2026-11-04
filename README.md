@@ -1,4 +1,3 @@
-<!-- ================= HEADER ================= -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alphonsekazadi&label=Profile+Views&color=8B0000&style=for-the-badge" />
   <a href="mailto:alphonsekazadi01@gmail.com">
@@ -36,13 +35,14 @@ I focus on real-world solutions, clean code, and continuous improvement.
 </p>
 
 ### Data & AI
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- Streamlit  
+- Data Analysis with Python
+- RAG Systems
+- AI Integration
 
 ### Cybersecurity
-- Linux systems  
+- Linux systems
+- Pentesting
+- AppSec
 - Networking fundamentals  
 - Secure development practices  
 
@@ -58,7 +58,7 @@ GitHub Streak -->
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Advanced Machine Learning systems  
 - Secure software engineering  
@@ -77,7 +77,7 @@ GitHub Streak -->
 
 ---
 
-## 🌍 Let’s Connect
+## Let’s Connect
 
 <p align="center">
   <a href="mailto:alphonsekazadi01@gmail.com">
